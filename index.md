@@ -1,4 +1,3 @@
-# Home
-### Scroll through the posts and see what everyone has worked on!
+layout: home
 
 Like and Subscribe
