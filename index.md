@@ -1,3 +1,3 @@
-# Welcome to my blog
+title: Welcome to my Blog
 
 Like and Subscribe
