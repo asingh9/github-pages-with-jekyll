@@ -1,3 +1,3 @@
-# Welcome to my Blog
+## Scroll through the posts and see what everyone has worked on!
 
 Like and Subscribe
