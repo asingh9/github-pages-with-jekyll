@@ -1,4 +1,5 @@
 ---
 layout: home
+title: "Home"
 ---
-Like and Subscribe
+## Like and Subscribe
